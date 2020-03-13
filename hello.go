@@ -1,4 +1,4 @@
-package hackme
+package hackme2
 
 import (
 	"fmt"
@@ -30,4 +30,9 @@ func Hello() string {
 // Hello2(): Hello2 return really interesting string
 func Hello2() string {
 	return "Hello2 from func"
+}
+
+// Hello3(): Hello3 return really interesting string
+func Hello3() string {
+	return "Hello3 from func"
 }
